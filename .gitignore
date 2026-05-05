@@ -1,5 +1,6 @@
 # Secrets — never commit
 .env
+CLAUDE.md
 backend/service_account.json
 backend/credentials/
 

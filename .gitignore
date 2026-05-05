@@ -19,3 +19,13 @@ frontend/dist/
 
 # OS
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Editor / tooling
+.claude/
+.idea/
+.vscode/
